@@ -4,8 +4,6 @@ Dataset preparation, exploration, and baseline CNN experimentation for WikiArt a
 
 This document explains the key pipeline files, how they connect to each other, and how to run the project from raw data cleanup to evaluation.
 
-Github Repository link: https://github.com/Mehmet1700/DeepLearning-NOVAIMS2026/tree/main
-
 ---
 
 ## Table of Contents
